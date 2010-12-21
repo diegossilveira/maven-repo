@@ -1,0 +1,13 @@
+h2. Using
+
+Just add this repository to your project's pom.xml:
+
+<pre>
+<code>
+<repository>
+   <id>diegossilveira - github</id>
+   <name>Github Maven Repository - diegossilveira</name>
+   <url>http://github.com/diegossilveira/maven-repo/raw/master/releases</url>
+</repository>
+</code>
+</pre>
